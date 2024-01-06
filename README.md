@@ -1,4 +1,4 @@
-#Binary tree
+# Binary tree
 
 This is an application for understanding and practicing skills in working with binary trees.
 
